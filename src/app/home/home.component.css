@@ -1,0 +1,10 @@
+.first{
+    height: 24rem;
+   background-color: #ffd200;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
